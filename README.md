@@ -11,6 +11,10 @@ GamePlay:
 
 -> Game is over when collision happens, with either the snake itsself or a wall
 
+-> Click "R" or the restart button to restart the game
+
+-> Click the spacebar to pause and resume the game
+
 ---------------------------------------------------------------------
 
 Features:
