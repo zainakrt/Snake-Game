@@ -3,7 +3,7 @@ This is a snake game made using Java Swing.
 
 ---------------------------------------------------------------------
 
-GamePlay:
+**GamePlay:**
 
 -> Use arrow keys to change the direction of the snake
 
@@ -17,7 +17,7 @@ GamePlay:
 
 ---------------------------------------------------------------------
 
-Features:
+**Features:**
 
 -> Score tracking
 
