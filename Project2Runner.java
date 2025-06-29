@@ -1,8 +1,7 @@
 public class Project2Runner {
     
     /*
-     * Name: Zaina Kaur
-     * Student ID: 501296433
+     * Name: Zaina K
      * 
      * 
 
