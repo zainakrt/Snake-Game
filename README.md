@@ -20,7 +20,9 @@ This is a snake game made using Java Swing.
 4. Game over detection with restart option
 5. Restart via button or keyboard
 6. Color-changing food and snake body
-7. GUI labels and control panel  
+7. GUI labels and control panel
+   
+---------------------------------------------------------------------
 
 **Tech Stack**
 - **Java**
