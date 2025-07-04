@@ -22,7 +22,7 @@ This is a snake game made using Java Swing.
 6. Color-changing food and snake body
 7. GUI labels and control panel  
 
-**🧱 Tech Stack**
+**Tech Stack**
 - **Java**
 - **Swing** for GUI
 - **Object-Oriented Programming** principles
